@@ -1,3 +1,5 @@
+This is an http://adhearsion.com/ instance example.
+
 Start your new app with "ahn start /path/to/your/app"
 
 If you wish to use Adhearsion to control Asterisk's dialplan,
